@@ -1,9 +1,3 @@
-# Credit Card Validator version .1
-# This is the world's worst credit card number validator. It checks to see if the number is 16 digits long and that is it.  
-
-# anything that starts with a pound sign (hashtag if you are under 30) is a comment. The computer ignores these.
-
-# Let's tell the world whose awful credit card validator this is.
 print ("Isabela Parra Modified This Credit Card Validator")
 
 # Let's get the card number from the user
